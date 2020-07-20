@@ -1,42 +1,27 @@
 # Biomechanical Analysis Catalog 
 
 This page is part of **A Dataset and Evaluation Methodology for Biomechanical Analysis Algorithms** article submmitted to SVR 2020.
-<!--
-Due the blind submission, the author's name are ommitted.
 
-You can use the [editor on GitHub](https://github.com/rgbd10/BiomechAnalysisCatalog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Due the blind review, the author's name are ommitted.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[**Open Catalog Link**](http://jambline.ezyro.com/catalog.html#/)
 
-### Markdown
+## Abstract
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It is noticeable the increase in the use of Virtual and Augmented reality technologies for rehabilitation purposes. User studies in both areas recognize motion by comparing human joint positions to a pre-recorded movement, direction or position relative to a reference point. Most works do not follow the uniformity motion description provided by the International Society of Biomechanics (ISB), mainly due to the lack of ground truth reference information.
 
-```markdown
-Syntax highlighted code block
+In this paper, we describe the process we carried out to perform the acquisition of representative biomechanical human poses captured using both Kinect V1 and V2. For the acquisition, we considered most critical movements performed by patients in rehabilitation programs, with varying speed and intensity. We also provide information on how to not perform the movements, i.e., how patients can mistakenly perform the sequences. From that point, we designed a methodology for evaluating biomechanical analysis algorithms. The entire dataset is freely available in the form of an open catalog meaning that submission of additional material is also accepted.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Used tools 
 
-1. Numbered
-2. List
+- [.XEF Extractor](https://drive.google.com/file/d/18MeSL9kQxcOr986jm-wU3ScJByG_JjPp/view?usp=sharing)
 
-**Bold** and _Italic_ and `Code` text
+- [.XED Extractor](https://drive.google.com/file/d/1rhM6V5e36JjUL2zvANujydtHf_hPPV8F/view?usp=sharing)
 
-[Link](url) and ![Image](src)
-```
+- [Web Site Code](https://drive.google.com/file/d/12hwyw11JfJJqkLUmDAeOw3racQWVwJRb/view?usp=sharing)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Contributions 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rgbd10/BiomechAnalysisCatalog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
--->
+If you want to contribute with more videos to this catalog, please contact [omitted due to blind review].
